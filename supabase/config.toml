@@ -1,0 +1,25 @@
+project_id = "fnodboycayhdqboaldwt"
+
+[functions.oauth-connect]
+verify_jwt = false
+
+[functions.twitter-oauth]
+verify_jwt = false
+
+[functions.fetch-messages]
+verify_jwt = false
+
+[functions.check-subscription]
+verify_jwt = false
+
+[functions.create-checkout]
+verify_jwt = false
+
+[functions.customer-portal]
+verify_jwt = false
+
+[functions.stripe-webhook]
+verify_jwt = false
+
+[functions.classify-message]
+verify_jwt = false

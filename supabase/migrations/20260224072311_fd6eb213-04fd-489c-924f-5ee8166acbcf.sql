@@ -1,0 +1,1 @@
+ALTER TABLE public.connected_accounts ADD COLUMN IF NOT EXISTS access_token_secret text;
